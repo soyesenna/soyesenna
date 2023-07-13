@@ -14,7 +14,7 @@
   
 ###  :lock:BOJ:lock:
 [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=kjy915875)](https://solved.ac/kjy915875)
-
+<img src="http://mazandi.herokuapp.com/api?handle=kjy915875&theme=warm"/>
 </div>
 <br/>
 
