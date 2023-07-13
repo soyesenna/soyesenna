@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=Rounded&color=000000&text=KimJooYoung&fontColor=ffffff&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=Rounded&color=000000&text= :smile:KimJooYoung :smile:&fontColor=ffffff&animation=fadeIn)
 
 ---
 
