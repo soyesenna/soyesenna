@@ -13,16 +13,6 @@
   ###  :lock:Github:lock:
 ![soyesenna's GitHub stats](https://github-readme-stats.vercel.app/api?username=soyesenna&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soyesenna&theme=dark)<br/>
-  
-###  :lock:BOJ:lock:
-[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=kjy915875)](https://solved.ac/kjy915875)
-<img src="http://mazandi.herokuapp.com/api?handle=kjy915875&theme=warm"/>
-</div>
-<br/>
-
-###  :lock:CodeTree:lock:
-[![](https://banner.codetree.ai/v1/banner/kjy915875)](https://www.codetree.ai/profiles/kjy915875)
---- 
 
 
 <div align="center">
